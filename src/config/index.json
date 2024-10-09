@@ -19,7 +19,7 @@
   },
   "mainHero": {
     "title": "Vidrio",
-    "subtitle": "Gonzales",
+    "subtitle": "Gonzalez",
     "description": "",
     "img": "/assets/images/1.png",
     "primaryAction": {
@@ -36,7 +36,7 @@
     "items": [
       {
         "title": "Productos",
-        "description": "Vidrio Gonzales es tu experto en soluciones de vidrio y aluminio. Nos dedicamos a ofrecer productos de alta calidad para todo tipo de proyectos, desde ventanas y puertas hasta estructuras personalizadas.",
+        "description": "Vidrio Gonzalez es tu experto en soluciones de vidrio y aluminio. Nos dedicamos a ofrecer productos de alta calidad para todo tipo de proyectos, desde ventanas y puertas hasta estructuras personalizadas.",
         "img": "/assets/images/2.png"
       },
       {

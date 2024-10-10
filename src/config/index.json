@@ -53,24 +53,19 @@
     "items": [
       {
         "name": "Número",
-        "description": "+57 300 123456",
+        "description": "+57 313 2100559",
         "icon": "/assets/images/phone.png"
       },
       {
         "name": "Email",
-        "description": "minegocio@gmail.com",
+        "description": "vidrieraheribertogonzalez@gmail.com",
         "icon": "/assets/images/email.png"
-      },
-      {
-        "name": "Instagram",
-        "description": "@MiNegocio",
-        "icon": "/assets/images/insta.png"
       },
       {
         "name": "Facebook",
         "description": "Mi Negocio",
         "icon": "/assets/images/facebook.jpg",
-        "url":""
+        "url":"https://www.facebook.com/people/Vidriera-Gonz%C3%A1lez/61567254951157/?mibextid=ZbWKwL"
       }
     ]
   },
